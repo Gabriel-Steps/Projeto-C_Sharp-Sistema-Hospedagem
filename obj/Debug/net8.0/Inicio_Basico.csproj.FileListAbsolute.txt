@@ -1,0 +1,15 @@
+C:\Gabriel\Bootcamp\C_Sharp\Inicio_Basico\bin\Debug\net8.0\Inicio_Basico.exe
+C:\Gabriel\Bootcamp\C_Sharp\Inicio_Basico\bin\Debug\net8.0\Inicio_Basico.deps.json
+C:\Gabriel\Bootcamp\C_Sharp\Inicio_Basico\bin\Debug\net8.0\Inicio_Basico.runtimeconfig.json
+C:\Gabriel\Bootcamp\C_Sharp\Inicio_Basico\bin\Debug\net8.0\Inicio_Basico.dll
+C:\Gabriel\Bootcamp\C_Sharp\Inicio_Basico\bin\Debug\net8.0\Inicio_Basico.pdb
+C:\Gabriel\Bootcamp\C_Sharp\Inicio_Basico\obj\Debug\net8.0\Inicio_Basico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Bootcamp\C_Sharp\Inicio_Basico\obj\Debug\net8.0\Inicio_Basico.AssemblyInfoInputs.cache
+C:\Gabriel\Bootcamp\C_Sharp\Inicio_Basico\obj\Debug\net8.0\Inicio_Basico.AssemblyInfo.cs
+C:\Gabriel\Bootcamp\C_Sharp\Inicio_Basico\obj\Debug\net8.0\Inicio_Basico.csproj.CoreCompileInputs.cache
+C:\Gabriel\Bootcamp\C_Sharp\Inicio_Basico\obj\Debug\net8.0\Inicio_Basico.sourcelink.json
+C:\Gabriel\Bootcamp\C_Sharp\Inicio_Basico\obj\Debug\net8.0\Inicio_Basico.dll
+C:\Gabriel\Bootcamp\C_Sharp\Inicio_Basico\obj\Debug\net8.0\refint\Inicio_Basico.dll
+C:\Gabriel\Bootcamp\C_Sharp\Inicio_Basico\obj\Debug\net8.0\Inicio_Basico.pdb
+C:\Gabriel\Bootcamp\C_Sharp\Inicio_Basico\obj\Debug\net8.0\Inicio_Basico.genruntimeconfig.cache
+C:\Gabriel\Bootcamp\C_Sharp\Inicio_Basico\obj\Debug\net8.0\ref\Inicio_Basico.dll
